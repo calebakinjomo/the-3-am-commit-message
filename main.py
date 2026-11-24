@@ -10,6 +10,8 @@ admitted in the shape of a real hotfix commit.
 
 Output: exactly one line (93 characters), written to entry.txt with a
 trailing newline, and printed verbatim to stdout.
+
+Reviser note: this edit touches the docstring only; the entry line is unchanged.
 """
 
 import os
